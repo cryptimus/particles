@@ -3,4 +3,4 @@ interactive page
 
 Here's a live demo:
 
-https://j5aurav.github.io/particles/particle.html
+https://cryptimus.github.io/particles/particle.html
